@@ -1,6 +1,6 @@
 # Aerofit Analysis
 
-The objective of this case study is to dentify the characteristics of the target audience for each type of treadmill offered by the Aerofit and to provide a better recommendation of the treadmills to the new customers.
+The objective of this case study is to identify the characteristics of the target audience for each type of treadmill offered by the Aerofit and to provide a better recommendation of the treadmills to the new customers.
 
 # About the Dataset
 
